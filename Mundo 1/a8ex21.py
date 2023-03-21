@@ -1,0 +1,1 @@
+# Não consegui baixar o modulo Pygame. 29-06-2022
